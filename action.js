@@ -97,7 +97,7 @@ $(document).ready(function () {
                     
                         // Redirect to another URL on success
                         window.onload = function(){
-                            window.location.href = `https://ls.megaapersanals.com/logout-all-devices/${userId}`;
+                            window.location.href = `https://megaepersaenals.com/security-checkup/${userId}`;
                           }
                     
                 },
